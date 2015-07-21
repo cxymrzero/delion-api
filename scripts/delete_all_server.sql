@@ -1,0 +1,10 @@
+USE cxy233;
+DELETE FROM aff;
+DELETE FROM aff_group;
+DELETE FROM nft;
+DELETE FROM nft_user_rel;
+DELETE FROM user;
+DELETE FROM user_aff_group_rel;
+DELETE FROM user_aff_rel;
+DELETE FROM user_info;
+DELETE FROM user_rel;
